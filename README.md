@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning RUST, Scikit-learn
+- 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nonmean)](https://github.com/nonmean/github-readme-stats)
