@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning RUST, Scikit-learn
+- 🌱 I’m currently learning RUST (rust-lang) , Scikit-learn
+-  Leetcode: 335/2173; Project Euler: 62/785 (Feb. 16 2022)
 - 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nonmean)](https://github.com/nonmean/github-readme-stats)
 
