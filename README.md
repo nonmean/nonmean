@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Scikit-learn and RUST (rust-lang) 
 -  Leetcode: 426; Project Euler: 62, Codeforcens: 30
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nonmean)](https://github.com/nonmean/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nonmean?count_private=true)](https://github.com/nonmean/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonmean&hide=jupyter%20notebook)](https://github.com/nonmean/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonmean&hide=jupyter%20notebook?count_private=true)](https://github.com/nonmean/github-readme-stats)
 
