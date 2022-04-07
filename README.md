@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Scikit-learn and RUST (rust-lang) 
--  Leetcode: 440; Project Euler: 62, Codeforcens: 34
+-  Leetcode: 454; Project Euler: 62, Codeforcens: 34
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nonmean&count_private=true)](https://github.com/nonmean/github-readme-stats)
