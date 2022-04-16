@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Scikit-learn and RUST (rust-lang) 
--  Leetcode: 474;
+- 🌱 I’m currently learning Scikit-learn and Cloud computing
+-  Leetcode: 500;
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nonmean&count_private=true)](https://github.com/nonmean/github-readme-stats)
