@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Scikit-learn and Cloud computing
--  Leetcode: 500;
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=nonmean)
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nonmean&count_private=true)](https://github.com/nonmean/github-readme-stats)
