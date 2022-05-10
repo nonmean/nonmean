@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=nonmean&theme=auto)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nonmean&count_private=true)](https://github.com/nonmean/github-readme-stats)
+ -- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nonmean&count_private=true)](https://github.com/nonmean/github-readme-stats)
