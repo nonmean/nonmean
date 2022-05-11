@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Scikit-learn and Cloud computing
+- 🌱 I’m currently learning Scikit-learn and Data / Cloud computing
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=nonmean&theme=auto)
 
