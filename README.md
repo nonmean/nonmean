@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Scikit-learn and Data / Cloud computing
+- 🌱 I’m currently learning Data and Cloud computing
+
+- 🔭 I’m solving leetcode daily challange (127 days) and attending leetcode contest (Rating 1651)
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=nonmean&theme=auto)
 
