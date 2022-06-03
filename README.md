@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Data and Cloud computing
-
+- ⚡ I’m interested in the modelling of physical and chemical processes in the environment and industry systems
 - 🔭 I’m solving leetcode daily challange (127 days) and attending leetcode contest (Rating 1651)
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=nonmean&theme=auto)
