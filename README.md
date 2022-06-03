@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Data and Cloud computing
+- 🌱 I’m currently learning Data engineering and Cloud computing
 - ⚡ I’m interested in the modelling and simulation of physical and chemical processes in the environment and industry systems
-- 🔭 I’m solving leetcode daily challange (127 days) and attending leetcode contest (Rating 1671)
+- 🔭 I’m solving leetcode daily challenge (127 days) and attending leetcode contest (Rating 1671)
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=nonmean&theme=auto)
 
